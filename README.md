@@ -1,10 +1,10 @@
 # 🕵️ NetSoc_OSINT 🕵️
 
-[Español](https://github.com/XDeadHackerX/NetSoc_OSINT/blob/main/README.md) | [English](https://github.com/XDeadHackerX/NetSoc_OSINT/blob/main/README-English.md)
+[Español](https://github.com/Seb2lyon/NetSoc_OSINT/blob/main/README.md) | [English](https://github.com/Seb2lyon/NetSoc_OSINT/blob/main/README-English.md)
 
-> Herramienta creada por XDeadHackerX
+> Herramienta creada por XDeadHackerX y modificado por Seb2lyon (04-05-2024)
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.1-purple.svg?style=for-the-badge"/></p>
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.1.1-purple.svg?style=for-the-badge"/></p>
 
 [![Net-Soc-OSINT-1-1-es.png](https://i.postimg.cc/rFXyLpBr/Net-Soc-OSINT-1-1-es.png)](https://postimg.cc/6TcxrB5W)
 
@@ -22,17 +22,17 @@
 
 ## 💡 Funciones 💡
 
-:ballot_box_with_check: **OSINT a Instagram** --> [**Cuentas Públicas y Privadas:** *Usuario, Nombre, Descripción, Número de Posts, Seguidores, Siguiendo, Estado de la cuenta (Públicas o Privada), URL Foto Perfil, URL Perfil*]
+:ballot_box_with_check: **OSINT a Instagram** --> [**Cuentas Públicas y Privadas:** *Usuario, Nombre, Número de Posts, Seguidores, Siguiendo, Estado de la cuenta (Públicas o Privada), URL Foto Perfil, URL Perfil*]
 
 :ballot_box_with_check: **OSINT a TikTok** --> [**Cuentas Públicas:** *Usuario, Nombre, Descripción, Seguidores, Siguiendo, URL Foto Perfil, URL Perfil*]
 
-:ballot_box_with_check: **OSINT a Twitter** --> [**Cuentas Públicas y Privadas:** *Usuario, Nombre, Descripción, Fecha y Hora de la creación de la cuenta, Número de Tweets, Following, Followers, Número de Likes, URL Foto Perfil, URL Perfil*]
+:black_square_button: **OSINT a Twitter** --> NO FUNCIONA (HACER)
 
-:ballot_box_with_check: **OSINT a Twitch** --> [**Cuentas Públicas y Privadas:** *Usuario, Nombre, Descripción, URL Foto Perfil*]
+:black_square_button: **OSINT a Twitch** --> NO FUNCIONA (HACER)
 
-:ballot_box_with_check: **OSINT a Telegram** --> [**Cuentas Públicas y Privadas:** *Usuario, Nombre, Descripción, URL Foto Perfil, URL Perfil*]
+:ballot_box_with_check: **OSINT a Telegram** --> [**Cuentas Públicas y Privadas:** *Usuario, Nombre, URL Foto Perfil, URL Perfil*]
 
-:ballot_box_with_check: **OSINT a GitHub** --> [**Cuentas Públicas y Privadas:** *Usuario, Nombre, Descripción, Email, URL Foto Perfil, URL Perfil*]
+:ballot_box_with_check: **OSINT a GitHub** --> [**Cuentas Públicas y Privadas:** *Usuario, ID, Descripción, URL Blog, Ubicación, URL Foto Perfil, Repositorios Públicos, Gists Públicos, Seguidores, Siguiendo, Fecha de Creación, Fecha de Modificación, URL Gists Públicos*]
 
 :black_square_button: **OSINT a TikTok** --> [**Cuentas Privadas**]
 
@@ -44,7 +44,7 @@
 
 **2)** sudo apt-get install git
 
-**3)** git clone https://github.com/XDeadHackerX/NetSoc_OSINT
+**3)** git clone https://github.com/Seb2lyon/NetSoc_OSINT
 
 **4)** cd NetSoc_OSINT
 
@@ -62,13 +62,11 @@
 
 **[2]** Si usamos la Herramienta con una VPN o Proxys activados puede que algunas opciones no funcionen (CAPTCHA).
 
-**[3]** En el apartado de Instagram, si el campo Descripción tiene varias filas (líneas) solo aparecerá la primera.
+**[3]** Próximamente se agregarán nuevas Redes Sociales.
 
-**[4]** Próximamente se agregarán nuevas Redes Sociales.
+**[4]** Personalmente recomiendo usar la Herramienta con la Terminal en Pantalla Completa (Gráficamente más bonito).
 
-**[5]** Personalmente recomiendo usar la Herramienta con la Terminal en Pantalla Completa (Gráficamente más bonito).
-
-**[6]** En caso de que tengas descargada una versión más antigua, te aconsejo borrarla y volver a instalar la herramienta (+requisitos) para solucionar errores y obtener mejoras, que hacen que la herramienta sea mucho mejor que las versiones anteriores.
+**[5]** En caso de que tengas descargada una versión más antigua, te aconsejo borrarla y volver a instalar la herramienta (+requisitos) para solucionar errores y obtener mejoras, que hacen que la herramienta sea mucho mejor que las versiones anteriores.
 
 ## 🎬 Video 🎬 <a name="punto1"></a>
 
@@ -84,6 +82,10 @@
   <summary>[ v1.1 ]</summary>
   <p align="justify">[#] Posibilidad de escoger entre Español e Inglés.</p>
 </details>
+<details>
+  <summary>[ v1.1.1 ]</summary>
+  <p align="justify">[#] Actualización : Errores solucionados y desactivación de opciones no funcionales.</p>
+</details>
 
 ## ⭐☕ Creado por XDeadHackerX ☕⭐
 
@@ -92,3 +94,5 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/XDeadHackerX)
 
 Copyright © 2023, XDeadHackerX
+Copyright © 2024, Seb2lyon (actualización de script)
+

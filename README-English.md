@@ -1,10 +1,10 @@
 # 🕵️ NetSoc_OSINT 🕵️
 
-[Español](https://github.com/XDeadHackerX/NetSoc_OSINT/blob/main/README.md) | [English](https://github.com/XDeadHackerX/NetSoc_OSINT/blob/main/README-English.md)
+[Español](https://github.com/Seb2lyon/NetSoc_OSINT/blob/main/README.md) | [English](https://github.com/Seb2lyon/NetSoc_OSINT/blob/main/README-English.md)
 
-> Tool created by XDeadHackerX
+> Tool created by XDeadHackerX and modified by Seb2lyon (2024-05-04)
 
-<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.1-purple.svg?style=for-the-badge"/></p>
+<p align="center"><img width="120px" alt="Version" src="https://img.shields.io/badge/version-1.1.1-purple.svg?style=for-the-badge"/></p>
 
 [![Net-Soc-OSINT-1-1-en.png](https://i.postimg.cc/0QpbmJm7/Net-Soc-OSINT-1-1-en.png)](https://postimg.cc/Kk8Ghj0Y)
 
@@ -22,17 +22,17 @@
 
 ## 💡 Features 💡
 
-:ballot_box_with_check: **OSINT to Instagram** --> [**Public and Private Accounts:** *User, Name, Description, Number of Posts, Followers, Following, Account Status (Public or Private), Profile Photo URL, Profile URL*]
+:ballot_box_with_check: **OSINT to Instagram** --> [**Public and Private Accounts:** *User, Name, Number of Posts, Followers, Following, Account Status (Public or Private), Profile Photo URL, Profile URL*]
 
 :ballot_box_with_check: **OSINT to TikTok** --> [**Public Accounts:** *User, Name, Description, Followers, Following, URL Profile Photo, URL Profile*]
 
-:ballot_box_with_check: **OSINT to Twitter** --> [**Public and Private Accounts:** *User, Name, Description, Date and Time of account creation, Number of Tweets, Following, Followers, Number of Likes, URL Profile Photo, URL Profile*]
+:black_square_button: **OSINT to Twitter** --> NOT WORKING (TODO)
 
-:ballot_box_with_check: **OSINT to Twitch** --> [**Public and Private Accounts:** *User, Name, Description, URL Profile Photo*]
+:black_square_button: **OSINT to Twitch** --> NOT WORKING (TODO)
 
-:ballot_box_with_check: **OSINT to Telegram** --> [**Public and Private Accounts:** *User, Name, Description, URL Profile Photo, URL Profile*]
+:ballot_box_with_check: **OSINT to Telegram** --> [**Public and Private Accounts:** *User, Name, URL Profile Photo, URL Profile*]
 
-:ballot_box_with_check: **OSINT to GitHub** --> [**Public and Private Accounts:** *User, Name, Description, Email, Profile Photo URL, Profile URL*]
+:ballot_box_with_check: **OSINT to GitHub** --> [**Public and Private Accounts:** *User, ID, Description, Blog URL, Location, Profile Photo URL, Public Repositories, Public Gists, Followers, Following, Creation Date, Updating Date, Public Gists URL*]
 
 :black_square_button: **OSINT to TikTok** --> [**Private Accounts**]
 
@@ -44,7 +44,7 @@
 
 **2)** sudo apt-get install git
 
-**3)** git clone https://github.com/XDeadHackerX/NetSoc_OSINT
+**3)** git clone https://github.com/Seb2lyon/NetSoc_OSINT
 
 **4)** cd NetSoc_OSINT
 
@@ -62,13 +62,11 @@
 
 **[2]** If you use the Tool with a VPN or Proxies enabled, some options may not work (CAPTCHA).
 
-**[3]** In the Instagram section, if the Description field has several rows (lines) only the first one will appear.
+**[3]** New Social Networks will be added soon.
 
-**[4]** New Social Networks will be added soon.
+**[4]** I personally recommend using the Tool with the Terminal in Full Screen (Graphically nicer).
 
-**[5]** I personally recommend using the Tool with the Terminal in Full Screen (Graphically nicer).
-
-**[6]** In case you have downloaded an older version, I advise you to delete it and reinstall the tool (+requirements) to fix bugs and get improvements, which make the tool much better than previous versions.
+**[5]** In case you have downloaded an older version, I advise you to delete it and reinstall the tool (+requirements) to fix bugs and get improvements, which make the tool much better than previous versions.
 
 ## 🎬 Video 🎬 <a name="punto1"></a>
 
@@ -84,6 +82,10 @@
   <summary>[ v1.1 ]</summary>
   <p align="justify">[#] Possibility to choose between Spanish and English.</p>
 </details>
+<details>
+  <summary>[ v1.1.1 ]</summary>
+  <p align="justify">[#] Update : Bugs fixed and desactivate non-functional options.</p>
+</details>
 
 ## ⭐☕ Created by XDeadHackerX ☕⭐
 
@@ -92,3 +94,5 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/XDeadHackerX)
 
 Copyright © 2023, XDeadHackerX
+Copyright © 2024, Seb2lyon (script updating)
+
