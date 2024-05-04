@@ -93,6 +93,5 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/XDeadHackerX)
 
-Copyright © 2023, XDeadHackerX
-Copyright © 2024, Seb2lyon (actualización de script)
+Copyright © 2023, XDeadHackerX + Copyright © 2024, Seb2lyon (actualización de script)
 
